@@ -1,7 +1,7 @@
-🧾 Project Description
+# 🧾 Project Description
 The AI Lie Detector aims to automate the detection of deception using artificial intelligence. By analyzing behavioral cues such as voice tone, facial expressions, and/or written responses, the system classifies responses as "Truth" or "Lie". This project blends machine learning, computer vision, and natural language processing to provide a non-invasive and scalable lie detection mechanism, offering a modern alternative to traditional polygraphs.
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 Layer	Tools / Libraries
 Programming Language	Python
 Audio Processing	Librosa, OpenSMILE
@@ -13,7 +13,7 @@ Web Interface	Streamlit, Flask
 Deployment (optional)	Heroku, Docker, AWS EC2 / Lambda
 Data Storage	Local filesystem, MongoDB (if needed)
 
-🔄 Workflow
+## 🔄 Workflow
 Here’s how the AI lie detector works, step-by-step:
 
 1. Input Acquisition
@@ -47,7 +47,7 @@ Result: "Lie" or "Truth"
 
 Confidence Score (e.g., 87% confident)
 
-🔮 Future Use Cases
+##🔮 Future Use Cases
 The AI Lie Detector can evolve into a powerful tool for various real-world applications:
 
 1. Law Enforcement & Security
@@ -71,3 +71,8 @@ Real-time threat detection from social media/text/video input
 
 6. Social Research
 Studying human behavior under different contexts
+
+## 📁 Dataset
+https://www.kaggle.com/datasets/devvratmathur/micro-expression-dataset-for-lie-detection
+
+https://www.kaggle.com/datasets/thesergiu/truth-detectiondeception-detectionlie-detection/code
